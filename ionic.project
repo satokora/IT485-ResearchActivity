@@ -1,0 +1,10 @@
+{
+  "name": "ReadItForMe",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://api.newocr.com/v1"
+    }
+  ]
+}
